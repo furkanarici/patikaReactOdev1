@@ -1,5 +1,6 @@
 ## Patika React 1 ödev 
 
+```javascript
 {
   id: 1,
   name: 'Leanne Graham',
@@ -112,3 +113,5 @@
     }
   ]
 }
+
+```
