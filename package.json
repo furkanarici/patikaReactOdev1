@@ -1,0 +1,15 @@
+{
+  "name": "patikareactodev1",
+  "version": "1.0.0",
+  "description": "patika odev react 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0"
+  },
+  "type": "module"
+}
